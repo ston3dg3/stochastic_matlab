@@ -1,0 +1,10 @@
+{
+"verify":
+{
+	"inputs":
+	[
+		{"name":"n", "kind":"required", "type":[["filepath=*.m"], ["char"]]},
+		{"name":"quiet", "kind":"optional", "type":["numeric", "scalar", "integer"]}
+	]
+}
+}
